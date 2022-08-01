@@ -1,0 +1,35 @@
+
+html,
+body
+{
+    padding: 0.5% 0.5%;
+}
+
+#cover {
+    background: rgb(247, 244, 244);
+    background-size: cover;
+    color: 100% ;
+    text-align: center;
+    align-items: center;
+}
+
+#cover-caption {
+    width: 100%;
+}
+
+#carouselExampleCaptions , #cover-block {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+#h3 {
+    text-align: center;
+}
+
+#about {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
